@@ -1,0 +1,44 @@
+/* .hero {
+    width: 500px;
+} */
+
+.bold {
+    font-weight: bold;
+}
+.pusky {
+    font-size: 90px;
+    
+}
+.lal {
+    color:#EF233C ;
+}
+.soto {
+    width: 90px;
+}
+.carve {
+    border-radius: 30px;
+}
+
+.gap {
+    margin-bottom: 50px;
+}
+.sectiona {
+    margin-top: 50px;
+}
+
+.mb-50 {
+    margin-bottom: 75px;
+}
+.gth {
+    border-radius: 5px;
+    position: fixed;
+    z-index: 5;
+    background-color: blue;
+}
+.aro-soto {
+    width: 50px;
+}
+.aro-soto-height {
+    
+    height:50px;
+}

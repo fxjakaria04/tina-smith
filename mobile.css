@@ -1,0 +1,31 @@
+@media only screen and (max-width: 600px) {
+    body {
+      background-color: #FFFDF0;
+    }
+    .upper-profile {
+        width: 50% !important;
+        position: absolute;
+        left: 25%;
+        right: 25%;
+        top: 130px;
+    }
+    .information-section h5  {
+        font-size: 15px;
+    }
+    .middle-section {
+        margin-top: 283px !important;
+    }
+    .nam {
+        font-size: 18px;
+        font-weight: 600;
+    }
+    .bio {
+        font-size: 13px;
+    }
+    li {
+        font-size: 15px;
+    }
+    .card-section {
+        display: none;
+    }
+  }
